@@ -1,0 +1,1 @@
+# node-guacamole-user-mapping
